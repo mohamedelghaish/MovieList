@@ -1,0 +1,26 @@
+PODS:
+  - Cosmos (25.0.0)
+  - SDWebImage (5.19.1):
+    - SDWebImage/Core (= 5.19.1)
+  - SDWebImage/Core (5.19.1)
+  - TinyConstraints (4.0.2)
+
+DEPENDENCIES:
+  - Cosmos
+  - SDWebImage (~> 5.0)
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - SDWebImage
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Cosmos: f1eac42a1a6480b35cf5226d70bd0fadc004b4aa
+  SDWebImage: 40b0b4053e36c660a764958bff99eed16610acbb
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+
+PODFILE CHECKSUM: ba5460c1bf3f118492563df7e82fc3fa3df25542
+
+COCOAPODS: 1.15.2
